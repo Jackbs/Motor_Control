@@ -1,0 +1,6 @@
+".\Objects\STARTUP.obj",
+".\phys340libkeil.obj",
+".\Objects\Motor.obj" 
+TO ".\Objects\Motor" 
+
+PRINT(".\Listings\Motor.map")
